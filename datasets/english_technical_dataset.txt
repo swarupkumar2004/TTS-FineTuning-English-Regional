@@ -1,0 +1,3 @@
+The API is designed to handle multiple requests at scale.
+CUDA is used for parallel computing.
+TTS stands for Text-to-Speech.

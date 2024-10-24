@@ -1,0 +1,5 @@
+coqui-tts
+torch
+transformers
+datasets
+scipy
